@@ -26,3 +26,10 @@ td {
 #title {
   text-align: center;
 }
+#wrapper {
+  width: 640px;
+  background: white;
+  margin: 24px auto;
+  padding: 40px;
+  border-radius: 10px;
+}
